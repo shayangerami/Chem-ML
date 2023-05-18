@@ -9,7 +9,9 @@ Datasets:
 The repository includes several example datasets that can be used for training and evaluating machine learning models. These datasets cover a range of chemistry-related problems, including:
 
 Property prediction
+
 Reaction prediction
+
 Molecular structure analysis
 
 Each dataset is provided in a standardized format suitable for machine learning tasks. 
