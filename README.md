@@ -15,3 +15,7 @@ Reaction prediction
 Molecular structure analysis
 
 Each dataset is provided in a standardized format suitable for machine learning tasks. 
+
+The repository provides a set of scripts and Jupyter notebooks that demonstrate different machine learning methods applied to the chemistry datasets. These resources can be used as a starting point for your own experiments or as a reference for implementing machine learning models in chemistry.
+
+Contributions to this repository are welcome! If you have any suggestions, improvements, or additional machine learning methods to include, please open an issue or submit a pull request. Your contributions can help expand the range of applications and resources available for applying machine learning in chemistry.
